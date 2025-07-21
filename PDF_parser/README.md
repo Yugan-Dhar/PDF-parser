@@ -88,7 +88,7 @@ This will present you with options to:
 
 **When prompted for the PDF path, enter:**
 ```
-Offer-Letter-655771747072978.pdf
+you_file.pdf
 ```
 (or the full path to your PDF file)
 
